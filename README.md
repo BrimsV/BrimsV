@@ -1,5 +1,5 @@
 # 👋 Introduction :
-Hi I'm Nacer, a JS/C++ developer from Grenoble. Currently, I'm in my second year of studying for a Bachelor's degree in **Computer Science** at IUT2 Grenoble. I'm involved in various projects, but I have a particular interest in web development. I work with **Vue.js**, **Nuxt.js**, **C#**, and **JavaScript** in general. If you have any questions, don't hesitate to contact me.
+Hi I'm Nacer, a JS/C++ developer from Grenoble. Currently, I'm in my second year of studying for a Bachelor's degree in **Computer Science** at IUT2 Grenoble. I'm involved in various projects, but I have a particular interest in web development. I work with **Vue.js**, **Nuxt.js**, **C#**, and **JavaScript** in general. If you have any questions, don't hesitate to contact me !
 
 # 💫 About Me:
 🔭 I’m currently working on the HoodKnights projects (HK Studio & Knights Store)<br>🌱 I’m currently learning VueJS & NuxtJS
